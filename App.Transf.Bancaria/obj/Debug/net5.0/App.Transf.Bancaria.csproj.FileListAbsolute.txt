@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.exe
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.deps.json
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.runtimeconfig.json
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.dll
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\ref\App.Transf.Bancaria.dll
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\bin\Debug\net5.0\App.Transf.Bancaria.pdb
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.dll
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\ref\App.Transf.Bancaria.dll
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.pdb
+C:\Users\Asus\Desktop\DIO - LOCALIZA - .NET\App.Transf.Bancaria\App.Transf.Bancaria\obj\Debug\net5.0\App.Transf.Bancaria.genruntimeconfig.cache
